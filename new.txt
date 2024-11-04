@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/https://chaturbate.com/sunshine13_/&youtube&logo" group-title="•YouTube「其他」",x
+https://live.iill.top/youtube/https://chaturbate.com/sunshine13_/
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/https://chaturbate.com/ki_mi/&youtube&logo" group-title="•YouTube「其他」",test
+https://live.iill.top/youtube/https://chaturbate.com/ki_mi/
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/https://chaturbate.com/brookesawyer/&youtube&logo" group-title="•YouTube「其他」",x
+https://live.iill.top/youtube/https://chaturbate.com/brookesawyer/
